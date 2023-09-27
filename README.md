@@ -3,7 +3,7 @@
  <h1><p align = "center"><b>Welcome!👋 </b> </p></h1>
 
 ### About Me
-#### I am a Quantitative Data Science student about to graduate from UNSW. I will start showcasing the knowledge that I have learnt by working on new projects from scratch. 
+#### I am a Quantitative Data Science student about to graduate from UNSW. I will showcase the knowledge that I have learnt by working on new projects. 
 
 <br></br>
 
